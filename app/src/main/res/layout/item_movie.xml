@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="86dp"
+        android:id="@+id/ivPoster"
+        android:src="@android:mipmap/sym_def_app_icon" />
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/ivTitle"
+        android:textSize="26sp"
+        android:padding="26dp" />
+
+
+</LinearLayout>
