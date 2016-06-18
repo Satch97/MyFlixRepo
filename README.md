@@ -27,14 +27,15 @@ The following **additional** features are implemented:
 
 * [x] Created Custom App Icon from scratch and used transparent background along with glass and gradiented view
 * [x] Custom greyscale theme to be easy on the eyes.
+* [x] Functional refresh feature
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src=http://g.recordit.co/6Q00Rc7Xcp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://g.recordit.co/6Q00Rc7Xcp.gif 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt] http://recordit.co/
 
 ## Notes
 
@@ -44,7 +45,7 @@ Difficult to find the appropriate setup for the butterknife libraries.
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
-  [Butterknife](http://jakewharton.github.io/butterknife/) - Reduces instancces of "findViewById" to minimize boilerplate
+- [Butterknife](http://jakewharton.github.io/butterknife/) - Reduces instancces of "findViewById" to minimize boilerplate
 
 ## License
 
