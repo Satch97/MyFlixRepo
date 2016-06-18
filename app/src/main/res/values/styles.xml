@@ -1,10 +1,22 @@
 <resources>
 
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light">
+    <item name="actionBarStyle">@style/MyActionBar</item>
+</style>
+
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle</item>
+    </style>
+
+    <style name="MyTitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/colorSecondLightText</item>
+    </style>
+
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DialogWhenLarge">
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorSecondLightText</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
