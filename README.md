@@ -27,13 +27,13 @@ The following **additional** features are implemented:
 
 * [x] Created Custom App Icon from scratch and used transparent background along with glass and gradiented view
 * [x] Custom greyscale theme to be easy on the eyes.
-* [x] Functional refresh feature
+* [x] Functional and visual refresh feature
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/6Q00Rc7Xcp.gif 
+http://recordit.co/PNh5F2opdT
 
 GIF created with [RecordIt] http://recordit.co/
 
